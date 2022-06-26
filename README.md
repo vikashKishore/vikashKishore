@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Punam Kumari</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vikash Kishore</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <div><img align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **EXCEL**,**SQL**,**TABLEAU**
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **PYTHON**
 
-- 👯 I’m looking to collaborate on **MERN Stack Project**
+- 👯 I’m looking to collaborate on **Analysing data project and working with data set**
 
-- 💬 Ask me about **Javascript,React**
+- 💬 Ask me about **EXCEL, SQL,PYTHON, TABLEAU**
 
-- 📫 How to reach me **punamkumari8986@gmail.com**
+- 📫 How to reach me **vikashucet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/PunamMehra4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Punammehra" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/punam-kumari-05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/punam-kumari-05/" height="30" width="40" /></a>
+<a href="https://twitter.com/VikashKishore7?t=n3YSZ8ceHz99zy8bwkQXzg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Punammehra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikash-kishore-509b567a/?original_referer=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/punam-kumari-05/" height="30" width="40" /></a>
 
 </p>
 
